@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Martin\.android\build-cache\1f4a02544e3e4658a4e9951475bd74d9a68eee3b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Martin\Documents\GitHub\SpyApp\SpyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71505f1c9a963f978ee85c45ec34e214772097fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Martin\.android\build-cache\5c3dce3e776f65fc070ae7f84522b8bfb194fed4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Martin\Documents\GitHub\SpyApp\SpyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c77bc5f795eef28b3e333d06e7c0bc61c3c5c328\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Martin\.android\build-cache\c64c28adac68ce09b32b6e72f029610971b510ac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Martin\Documents\GitHub\SpyApp\SpyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd5cacb92f9644dcdfb5b45a6b51910764461e3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Martin\.android\build-cache\d1704a9f1ef3e1fea0258201fad59df9bb6ab651\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Martin\Documents\GitHub\SpyApp\SpyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6da58cbe15cdaf10dd8568c8ab3a6e16c9ee0ebc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Martin\Documents\GitHub\SpyApp\SpyApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Martin\Documents\GitHub\SpyApp\SpyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_24aa428650cb1676c4d63aa51ea91c1656200370\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Martin\.android\build-cache\7933d5e45c1f2277937054c5df64f0c8af4b6dc6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Martin\Documents\GitHub\SpyApp\SpyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_891142de73da17277b12de3ad494f6c2a5cf4f25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Martin\.android\build-cache\66fecd8a0add6a3486a6b28dccc0fadb66c0d394\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Martin\Documents\GitHub\SpyApp\SpyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8a301fe7a17e7bd96fba0b3339f3b800d80e11c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Martin\.android\build-cache\e4d30972493f5aa892fd750e1c0dbaef2dd40288\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Martin\Documents\GitHub\SpyApp\SpyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_601e3096678fabfffb3a2fc27644b9a066112b3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Martin\.android\build-cache\46de90e4a314fb7e65fd0ab5e08d21fad754106f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Martin\Documents\GitHub\SpyApp\SpyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb899261e856dd77bcf7cf885deb945e92e4f8ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Martin\.android\build-cache\7a4857e308d2cce6a530ccf97a455f097064f899\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Martin\Documents\GitHub\SpyApp\SpyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1e4e9ad28e02e906b66683d11a83d288d3146a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Martin\Documents\GitHub\SpyApp\SpyApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="850b92bc4da8a32f1a1578a0d7ad0b815f054c6b">
+        <dex dex="C:\Users\Martin\Documents\GitHub\SpyApp\SpyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_64db8f75a6fe0d5acb68ed33f09e1e66f6e033ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Martin\.android\build-cache\1d541ebebbb8ce10bb207bb34af7f61b16a007b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Martin\Documents\GitHub\SpyApp\SpyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_70fdd5feaf0cad900b7c4e1d23af0a240588e991\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Martin\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Martin\Documents\GitHub\SpyApp\SpyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_75bb78d0447c7a374cde810e30e0754506365fb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Martin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Martin\Documents\GitHub\SpyApp\SpyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_92db0778c7137456317277a69e3bfd0fed16d8c7\classes.dex" />
+    </item>
+
+</items>

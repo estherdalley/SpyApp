@@ -1,0 +1,7 @@
+#Tue Oct 24 20:58:34 BST 2017
+base.0=C\:\\Users\\Martin\\Documents\\GitHub\\SpyApp\\SpyApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_64db8f75a6fe0d5acb68ed33f09e1e66f6e033ae
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Martin\\Documents\\GitHub\\SpyApp\\SpyApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_24aa428650cb1676c4d63aa51ea91c1656200370\\classes.dex
+base.1=C\:\\Users\\Martin\\Documents\\GitHub\\SpyApp\\SpyApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_24aa428650cb1676c4d63aa51ea91c1656200370
+file.0=C\:\\Users\\Martin\\Documents\\GitHub\\SpyApp\\SpyApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_64db8f75a6fe0d5acb68ed33f09e1e66f6e033ae\\classes.dex
