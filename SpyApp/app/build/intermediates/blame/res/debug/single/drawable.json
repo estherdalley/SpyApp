@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Martin\\.android\\build-cache\\5c3dce3e776f65fc070ae7f84522b8bfb194fed4\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\Martin\\Documents\\GitHub\\SpyApp\\SpyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Martin\\.android\\build-cache\\5c3dce3e776f65fc070ae7f84522b8bfb194fed4\\output\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Martin\\Documents\\GitHub\\SpyApp\\SpyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "C:\\Users\\Martin\\.android\\build-cache\\5c3dce3e776f65fc070ae7f84522b8bfb194fed4\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\Documents\\GitHub\\SpyApp\\SpyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Martin\\.android\\build-cache\\5c3dce3e776f65fc070ae7f84522b8bfb194fed4\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "C:\\Users\\Martin\\Documents\\GitHub\\SpyApp\\SpyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",

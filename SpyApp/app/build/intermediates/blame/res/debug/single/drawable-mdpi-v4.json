@@ -20,12 +20,12 @@
         "source": "C:\\Users\\Martin\\.android\\build-cache\\5c3dce3e776f65fc070ae7f84522b8bfb194fed4\\output\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\Martin\\Documents\\GitHub\\SpyApp\\SpyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Martin\\.android\\build-cache\\5c3dce3e776f65fc070ae7f84522b8bfb194fed4\\output\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Martin\\Documents\\GitHub\\SpyApp\\SpyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
         "source": "C:\\Users\\Martin\\.android\\build-cache\\5c3dce3e776f65fc070ae7f84522b8bfb194fed4\\output\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\Documents\\GitHub\\SpyApp\\SpyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Martin\\.android\\build-cache\\5c3dce3e776f65fc070ae7f84522b8bfb194fed4\\output\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Martin\\Documents\\GitHub\\SpyApp\\SpyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
